@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\bin\Debug\Primjer upotrebe ArrayList objekta.exe.config
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\bin\Debug\Primjer upotrebe ArrayList objekta.exe
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\bin\Debug\Primjer upotrebe ArrayList objekta.pdb
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\obj\Debug\Primjer upotrebe ArrayList objekta.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\obj\Debug\Primjer upotrebe ArrayList objekta.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\obj\Debug\Primjer upotrebe ArrayList objekta.exe
+C:\Users\ivanm\source\repos\Primjer upotrebe ArrayList objekta\Primjer upotrebe ArrayList objekta\obj\Debug\Primjer upotrebe ArrayList objekta.pdb

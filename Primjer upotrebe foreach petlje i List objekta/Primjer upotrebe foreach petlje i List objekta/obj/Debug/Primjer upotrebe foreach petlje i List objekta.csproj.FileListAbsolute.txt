@@ -1,0 +1,6 @@
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\bin\Debug\Primjer upotrebe foreach petlje i List objekta.exe.config
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\bin\Debug\Primjer upotrebe foreach petlje i List objekta.exe
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\bin\Debug\Primjer upotrebe foreach petlje i List objekta.pdb
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\obj\Debug\Primjer upotrebe foreach petlje i List objekta.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\obj\Debug\Primjer upotrebe foreach petlje i List objekta.exe
+C:\Users\ivanm\source\repos\Primjer upotrebe foreach petlje i List objekta\Primjer upotrebe foreach petlje i List objekta\obj\Debug\Primjer upotrebe foreach petlje i List objekta.pdb
